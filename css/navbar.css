@@ -1,3 +1,5 @@
+/* Nav-top */
+
 .nav-top header {
     position: fixed;
     overflow: hidden;
@@ -5,6 +7,25 @@
     z-index: 1;
     text-align: right;
     right: 0%;
-
 }
-    
+
+.navbar-nav {
+    margin-right: 8rem;
+}
+
+.navbar {
+    background-color: var(--normal-yellow);
+    height: 2.5rem;
+}
+
+.nav-top a {
+    font-family: 'Hind Siliguri', sans-serif;
+    font-size: 1rem;
+    color: black;
+}
+
+.nav-top a:hover {
+    text-decoration: underline;
+}
+
+/* Nav-Bottom */
