@@ -1,0 +1,9 @@
+.social-media {
+    height: 100vh;
+    float: left;
+    clear: right;
+}
+
+.social-media header {
+    text-align: left;
+}

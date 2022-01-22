@@ -1,0 +1,7 @@
+.jumbotron {
+    background: url(../assets/Hogwarts-night.jpeg);
+    margin: 0 0 0 0;
+    background-size: cover;
+    height: 100vh;
+    
+    }
