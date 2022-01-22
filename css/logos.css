@@ -1,17 +1,17 @@
 .logos {
-    background-color: black;
+    background-color: var(--hogblack);
 }
 
 .logo-left {
     height: 5rem;
     margin-left: 8rem;
-    margin-top: 1.25rem;
-    margin-bottom: 1.25rem;
+    margin-top: .7rem;
+    margin-bottom: .7rem;
 }
 
 .logo-right {
-        height: 5rem;
-        margin-right: 8rem;
-        margin-top: 1.25rem;
-        margin-bottom: 1.25rem;
+    height: 5rem;
+    margin-right: 8rem;
+    margin-top: .7rem;
+    margin-bottom: .7rem;
 }

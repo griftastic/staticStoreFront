@@ -1,9 +1,11 @@
-.social-media {
+.social-media .container {
+    margin-top: 2.5rem ;
     height: 100vh;
+    width: 35vw;
     float: left;
     clear: right;
 }
 
-.social-media header {
-    text-align: left;
+.social-media h1 {
+    margin-left: 8rem;
 }
