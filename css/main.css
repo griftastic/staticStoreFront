@@ -5,3 +5,7 @@
 @import url("news.css");
 @import url("terms.css");
 @import url("variables.css");
+
+html {
+    background-color: var(--hogblue);
+}

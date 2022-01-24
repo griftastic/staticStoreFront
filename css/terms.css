@@ -1,7 +1,9 @@
 .terms {
-    margin-top: 15%;
+    background-color: var(--hogblue);
 }
+
 
 .terms p {
     text-align: center;
+    font-size: .75rem;
 }
