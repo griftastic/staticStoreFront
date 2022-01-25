@@ -1,22 +1,25 @@
-.terms {
-    height: 10vh;
-    float: inline-end;
-    background-color: var(--hogblue);
-}
-
-.terms-container {
-    position: relative;
-    top: 1rem;
-    margin: 5rem 5rem 5rem 5rem;
+.terms footer{
     height: 30rem;
+    margin-left: 5rem;
+    margin-right: 5rem;
+    background-color: var(--hogblue);
 }
 
 .terms h1 {
     text-align: center;
-    font-size: .74rem;
+    font-size: .75em;
+    color: var(--hogblack);
 }
 
 .terms p {
     text-align: center;
     font-size: .75rem;
+    color: var(--hogblack);
+}
+
+.terms h2 {
+    text-align: center;
+    font-size: .75rem;
+    padding-bottom: 1rem;
+    color: var(--hogback);
 }

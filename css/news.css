@@ -1,19 +1,41 @@
 .news {
     background-color: var(--hogwhite);
     margin-top: 0rem;
-    height: 100vh;
+    padding-top: 2.5rem;
+    height: 105vh;
     width: 50vw;
-    overflow: hidden;
     float: right;
-    margin-right: 0rem;
-
+    padding-right: 5rem;
+    margin-bottom: 1rem;
 }
 
 .news-title h1 {
-        text-align: left;
-        padding-left: .3rem;
         font-family: 'Hind Siliguri', sans-serif;
         text-transform: uppercase;
         font-size: 2rem;
+        font-weight: bolder;
         color: var(--hogblack);
-    }
+}
+
+.news button {
+    padding-left: 3rem;
+    padding-right: 3rem;
+    padding-top: .3rem;
+    padding-bottom: .3rem;
+    margin-bottom: 3rem;
+    border: solid 1px;
+    font-weight: bolder;
+    border-color: var(--hogyellow);
+    background-color: var(--hogwhite);
+}
+
+.news button:hover {
+    background-color: var(--hogblue);
+    color: var(--hogwhite);
+}
+
+.news p {
+    padding-bottom: 0rem;
+    font-weight: bolder;
+    font-size: 1.43rem;
+}
