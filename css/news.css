@@ -2,7 +2,7 @@
     background-color: var(--hogwhite);
     margin-top: 0rem;
     padding-top: 2.5rem;
-    height: 105vh;
+    height: 110vh;
     width: 50vw;
     float: right;
     padding-right: 5rem;
@@ -32,6 +32,7 @@
 .news button:hover {
     background-color: var(--hogblue);
     color: var(--hogwhite);
+    transition: ease-in .2s;
 }
 
 .news p {
